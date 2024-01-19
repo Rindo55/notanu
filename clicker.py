@@ -464,16 +464,17 @@ To start collecting Not Coins, you can use the following commands:
 🟡 `/click off` - Stop collecting Not Coins
 🟡 `/speed 1-10` - Set collection speed (1-10) (4 - 6 is best!)
 🟡 `/help` - Display this help message
+🟡 `/version` - Get current version of bot
 🟡 `/balance` - Check your current Not Coin balance
 🟡 `/ping` - Test if the bot is responsive
-🟡 `/info` - Display information about the bot
-🟡 `/version` - Show the bot version
 🟡 `/stop` - Stop bot
 
 Get ready to gather those shiny 🟡 Not Coins! 🚀
 
-Coded By: @uPaSKaL ~ [GitHub](https://github.com/Poryaei)
-                          """)
+Developer: Ken x Pory
+Currently in Beta Stage!
+
+""")
     
     elif text == '/info':
         await _sendMessage("""
